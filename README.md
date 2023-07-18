@@ -1,5 +1,8 @@
 This is my impressive React JS project — a skill-building endeavor where I've recreated the Instagram web frontend, meticulously replicating its features and design to deepen my understanding of React and its capabilities.
 
+## link-to-the-github-repository
+https://github.com/saumyyaaaaa/basic-instaweb-frontend-clone
+
 ## snapshots-of-the-project
 
 ![1](https://github.com/saumyyaaaaa/basic-instaweb-frontend-clone/assets/88661225/1e1d8ae5-dc0c-4394-9a20-5ae7ec1e18eb)
